@@ -1,0 +1,8 @@
+pandas
+scipy
+numpy
+requests
+scikit-learn
+beautifulsoup4
+streamlit
+python-whois
