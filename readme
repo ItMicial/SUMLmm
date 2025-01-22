@@ -1,0 +1,4 @@
+https://sumlmm-fwfbpod8l6ftefk45appfu5.streamlit.app
+Aplikacja weryfikuje adres URL czy jest phishingiem 
+Uruchamia się poprzeez uruchomienie linku, wpisanie adresu który nas interesuje oraz zatwierdzenie wyboru klawiszem enter.
+Wynik pojawi się pod miejscem input
